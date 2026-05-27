@@ -1,0 +1,5 @@
+Library	              Purpose
+
+ESP8266WiFi.h =      WiFi connection
+ESP8266WebServer.h = Web server
+EEPROM.h =           Permanent memory storage
